@@ -1458,9 +1458,7 @@ textarea {
         font-size: 28px;
     }
 
-    .form-row {
-        flex-direction: column;
-    }
+
 
     .hero-content h1 {
         font-size: 36px;
@@ -1473,6 +1471,14 @@ textarea {
     .features-container {
         flex-direction: column;
         align-items: center;
+    }
+
+    .form-container {
+        padding: 10px;
+    }
+
+    form {
+        padding: 10px;
     }
 
     .form-row {
