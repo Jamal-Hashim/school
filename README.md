@@ -35,7 +35,9 @@ The website is designed with a **clean user interface, smooth animations, and re
 ---
 
 ## 📂 Project Structure
-Nomani-School-Website
+
+```
+Nomani-School-Website/
 │
 ├── index.html
 ├── about.html
@@ -47,9 +49,6 @@ Nomani-School-Website
 ├── index.js
 │
 └── image/
-├── logo.jpg
-├── school.jpg
-└── teacher.png
 
 
 ---
